@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "pId": 1,
+      "name": "Jacket",
+      "price": "Rs. 1764",
+      "image": "https://via.placeholder.com/600/92c952"
+    },
+    {
+      "pId": 2,
+      "name": "Shirt",
+      "price": "Rs. 2299",
+      "image": "https://via.placeholder.com/600/771796"
+    }
+  ]
+}
